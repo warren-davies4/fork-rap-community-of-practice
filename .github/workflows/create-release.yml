@@ -10,7 +10,7 @@ jobs:
     if: |
       github.event.pull_request.merged == true && 
       startsWith(github.head_ref, 'release/v') &&
-      github.repository == 'NHSDigital/rap-community-of-practice'
+      github.repository == 'warren-davies4/fork-rap-community-of-practice'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
