@@ -10,7 +10,7 @@ hide:
 #
 
 > **This material is maintained by the [NHS England RAP Community of Practice](mailto:england.rapchampions@nhs.net)**.
-
+AAAAARRRRRRRRRRRRRRRRRR
 > You can see some examples of our work [here](https://github.com/NHSDigital/data-analytics-services), including [underlying code to NHS Digital publications](https://github.com/NHSDigital/data-analytics-services#rap-publication-repositories) which have been published as a direct outcome of the service our team provides.
 
 These resources are intended for those interested in adopting [Reproducible Analytical Pipelines (RAP)](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/).
